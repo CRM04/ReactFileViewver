@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.file,
+.folder {
+  text-align: left;
+}
+
+.file::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  content: "\f1ea";
+  padding-right: 10px;
+}
+
+.folder::before {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 400;
+  content: "\f07b";
+  padding-right: 10px;
+}

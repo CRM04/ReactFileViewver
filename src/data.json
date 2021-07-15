@@ -1,0 +1,55 @@
+[
+  {
+    "type": "folder",
+    "name": "Documents",
+    "children": [
+      {
+        "type": "folder",
+        "name": "Images",
+        "children": [
+          {
+            "type": "file",
+            "name": "DCIM0001.jpg"
+          },
+          {
+            "type": "file",
+            "name": "DCIM0002.jpg"
+          },
+          {
+            "type": "file",
+            "name": "DCIM0003.jpg"
+          },
+          {
+            "type": "folder",
+            "name": "Thumbs",
+            "children": [
+              {
+                "type": "file",
+                "name": "thumbs.json"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "name": "Empty folder",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "name": "System",
+    "children": [
+      {
+        "type": "file",
+        "name": "os.js"
+      },
+      {
+        "type": "file",
+        "name": "apps.js"
+      }
+    ]
+  }
+]
